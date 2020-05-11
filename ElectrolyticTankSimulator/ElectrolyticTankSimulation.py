@@ -46,7 +46,7 @@ try:
         s=float(total/4)
         return np.round(s, 5)
 
-    def interateGrid(a,n):
+    def iterateGrid(a,n):
         """Iterate n times over 2D array"""
         print('Iterating grid: ',n,'times.')
         for i in range(n): 
@@ -79,7 +79,7 @@ try:
     #Create, iterate and display grid.
     a=createGrid(12,24,Vright,Vleft) 
     #print(a)-Check grid values
-    b=interateGrid(a,n)
+    b=iterateGrid(a,n)
     #print(b)-Check grid values
     fig = plt.figure()
     ax = fig.add_subplot(111)
