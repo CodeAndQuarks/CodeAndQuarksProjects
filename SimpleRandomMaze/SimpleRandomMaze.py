@@ -16,7 +16,7 @@ import random as rd
 def randomdraw(array):
     """Randomly select a integer"""
     const=len(array)
-    evenprob=(1.0/(const))
+    evenprob=(100.0/(const))
     probs=[evenprob]*(const)
     draw=np.random.choice(array,1,probs)
     number=int(draw)
