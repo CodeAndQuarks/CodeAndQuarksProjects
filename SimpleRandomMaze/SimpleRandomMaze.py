@@ -28,7 +28,8 @@ def createpath(xf, yf, maze, row, col):
     #each time createpath is called, neighbour will shuffle
     rd.shuffle(neighbourhood)
     for (xt, yt) in neighbourhood:
-        if maze[yt][xt]: continue
+        if maze[yt][xt]:
+            continue
         if xt == xf: 
             row[max(yf, yt)][xf] = "+  "
         if yt == yf:
