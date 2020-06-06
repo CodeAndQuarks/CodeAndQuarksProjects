@@ -7,7 +7,7 @@ Desc: A simple random maze generator that randomly creates a maze of size
       There are modules I could have used to randomise the range,
       but I wanted to see if I could randomise it myself, 
       to generalise its use for future projects where 
-      implementationis dependent on user input. 
+      implementation is dependent on user input. 
 """
 #imports
 import numpy as np
