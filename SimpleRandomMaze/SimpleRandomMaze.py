@@ -37,7 +37,7 @@ def createpath(xf, yf, maze, row, col):
         #keep iterating 
         createpath(xt, yt, maze, row, col)
 def GenMaze(width, height):
-    """Generate a random text-based maze with backtracking"""
+    """Generate a random text-based maze"""
     mymaze = ""  
     xf=rd.randrange(width)
     yf=rd.randrange(height)
