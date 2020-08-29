@@ -21,5 +21,5 @@ No (Psychic Spherical Cows) were harmed in the making of this game.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Basically, a simple haphazard war of attrition game I whipped up in a afternoon, inspired by old arcade games.
 Wanted to see how far I could get using only the turtle module for graphics.
-A little fine tuning definetly required for the future.
+A little fine tuning definitely required for the future.
 Enjoy defeating (Psychic Spherical Cows)  in space to your hearts content!
