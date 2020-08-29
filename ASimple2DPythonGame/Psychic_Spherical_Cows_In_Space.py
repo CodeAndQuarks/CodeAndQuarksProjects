@@ -5,16 +5,16 @@ Created on Fri Aug 28 16:45:46 2020
 @author: CodeAndQuarks
 
 Desc: A simple first person shooter, that randomises objects
-      (Pyschic Spherical Cows), for a Space Explorer to defend against.
-      Very Similar in functionality to Pong, the game ends once 
-      the (Pyschic Spherical Cows) 'board' the 'ship', which is a collison.
+      (Psychic Spherical Cows) , for a Space Explorer to defend against.
+      Very similar in functionality to Space Invaders, the game ends once 
+      the (Psychic Spherical Cows)  'board' the 'ship', which is a collison.
 ------------------------------------------------------------------------------
       There are no sprites as such, but each 'character' is determined by 
-      a basic shape. Pirates are circles, 
-      and the Defending Explorer is a triangle, and shoots small square lasers.
+      a basic shape. (Psychic Spherical Cows) are circles, 
+      and the defending explorer is a triangle, and shoots small square lasers.
 ------------------------------------------------------------------------------
       It's not quite the spherical cow in a vacuum routine but it does help
-      provide the means to test a very simple physics engine.
+      provide the means to test a very simple game engine.
 """
 #imports
 import turtle as trt
