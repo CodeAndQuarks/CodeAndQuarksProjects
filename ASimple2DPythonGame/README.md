@@ -16,7 +16,7 @@ Controls
 
 
 -Disclaimer:
-No (Pyschic Spherical Cows) were harmed in the making of the game.
+No (Pyschic Spherical Cows) were harmed in the making of this game.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Basically, a simple haphazard war of attrition game I whipped up in a afternoon, inspired by old arcade games.
